@@ -2,6 +2,8 @@
 
 Audit completed by Techrate in June 2021.
 
+Contract: https://bscscan.com/address/0x97796279a6c15732df2026a12d780279632af088
+
 ![final-audit-1](https://user-images.githubusercontent.com/83922122/122461697-60d05780-cfbc-11eb-962c-554a7f8f7a28.jpg)
 ![final-audit-2](https://user-images.githubusercontent.com/83922122/122461701-62018480-cfbc-11eb-9fc1-18123f1e0e97.jpg)
 ![final-audit-3](https://user-images.githubusercontent.com/83922122/122461704-62018480-cfbc-11eb-815a-120c36b5e8c4.jpg)
